@@ -1,5 +1,5 @@
-import SidebarComp from '@/components/Sidebar/_index'
-import TableProduct from '@/components/TableProduct/_index'
+import SidebarComp from '@/components/Sidebar/Sidebar'
+import TableProduct from '@/components/TableProduct/TableProduct'
 import Head from 'next/head'
 
 export default function Product(){

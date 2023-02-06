@@ -1,5 +1,5 @@
-import SidebarComp from '@/components/Sidebar/_index'
-import TableOrder from '@/components/TableOrder/_index'
+import SidebarComp from '@/components/Sidebar/Sidebar'
+import TableOrder from '@/components/TableOrder/TableOrder'
 import Head from 'next/head'
 
 export default function Order(){

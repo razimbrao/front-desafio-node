@@ -1,8 +1,11 @@
-import SidebarComp from '@/components/Sidebar/_index'
-import TableRestaurant from '@/components/TableRestaurant/_index'
+import SidebarComp from '@/components/Sidebar/Sidebar'
+import TableRestaurant from '@/components/TableRestaurant/TableRestaurant'
 import Head from 'next/head'
 
 export default function Restaurant() {
+
+
+
     return (
         <>
             <Head>
